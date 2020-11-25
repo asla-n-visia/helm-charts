@@ -87,7 +87,7 @@ additionalPrometheusRulesMap: {}
 #      - record: my_record
 #        expr: 100 * my_record
 
-##
+
 global:
   rbac:
     create: true
